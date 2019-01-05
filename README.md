@@ -1,4 +1,4 @@
-# -
+# 须知
 最近使用NotificationService来实现语音播报的小伙伴肯定遇到了再iOS 12.1之后无法正常进行播报的问题
 这是因为在NotificationService新特性里面爸爸禁用了audio session
 这些代码是用来解决iOS12.1之后使用NotificationService实现的语音播报无法正常使用的问题
